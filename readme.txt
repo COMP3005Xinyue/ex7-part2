@@ -1,4 +1,4 @@
-Link:
+Link:https://github.com/COMP3005Xinyue/ex7-part2.git
 
 Output:
 Municipal taxes for building T1-1 are: 12000.0
